@@ -14,3 +14,19 @@ c:\users\makah\onedrive\ドキュメント\visual studio 2017\Projects\PPAnote2o
 c:\users\makah\onedrive\ドキュメント\visual studio 2017\Projects\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.csproj.GenerateResource.Cache
 c:\users\makah\onedrive\ドキュメント\visual studio 2017\Projects\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.dll
 c:\users\makah\onedrive\ドキュメント\visual studio 2017\Projects\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.pdb
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\PPAnote2osc.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\PPAnote2osc.pdb
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\PPAnote2osc.dll.manifest
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\PPAnote2osc.vsto
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Rug.Osc.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\bin\Debug\Rug.Osc.xml
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.csprojResolveAssemblyReference.cache
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.Properties.Resources.resources
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.csproj.GenerateResource.Cache
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.dll
+C:\Users\mbpusr\Documents\GitHub\PPAnote2osc\PPAnote2osc\obj\Debug\PPAnote2osc.pdb
